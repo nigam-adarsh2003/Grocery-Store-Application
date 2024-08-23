@@ -1,5 +1,5 @@
 # Grocery Store Application
-In this python project we will build a grocery store management system where will do 3 tier application development.
+This project involves building a Grocery Store Management System using a three-tier application architecture. The system is designed to efficiently manage various aspects of a grocery store, including inventory, sales, and customer management.
 * Front end: UI will be in HTML, CSS, JavaScript
 * Back end: Backend will be a python flask server
 * Database: MySQL
